@@ -19,3 +19,7 @@
     after game over,user need select mode again to start new game.
     
     for Man VS AI,the first hand is man,then PC will auto play its chass.
+    
+#   Code:
+    /src/trans/game/start    main method
+    /src/trans/game/frame    deal the game logic
