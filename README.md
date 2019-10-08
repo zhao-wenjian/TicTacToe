@@ -23,3 +23,5 @@
 #   Code:
     /src/trans/game/start    main method
     /src/trans/game/frame    deal the game logic
+    development language : Java
+    Tool : Eclipse
