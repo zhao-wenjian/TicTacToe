@@ -9,7 +9,8 @@
 #   First：
     user should select the game mode between [Man VS Man] and [Man VS AI],if not select,alert message will show.
 #   Second:
-    game start,one box only can set chass once,if play the chass at same box over and over again,will show the message alert user to select another empty box
+    game start,one box only can set chass once,if play the chass at same box over and over again,
+    will show the message alert user to select another empty box
     The turn of user display on the game screen top,display as [Your turn:Circle/Cross]
 #   Third:
     game in progress or game over,user can select mode at any time to restart game
